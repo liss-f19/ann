@@ -1,0 +1,7 @@
+{
+  "workbench.editorAssociations": {
+    "*.ipynb": "jupyter-notebook"
+  },
+  "jupyter.defaultKernel": "lab01",
+    "python.defaultInterpreterPath": "/home/bogdan/Projects/ann/lab01/.venv/bin/python"
+}
