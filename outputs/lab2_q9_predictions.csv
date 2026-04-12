@@ -1,0 +1,41 @@
+filename,top1_prediction,top2_predictions
+k4 (71).jpg,bears,bears:0.9706 | elephants:0.0294
+k4 (72).jpeg,elephants,elephants:0.9973 | bears:0.0027
+k4 (72).jpg,elephants,elephants:0.9875 | bears:0.0125
+k4 (73).jpeg,elephants,elephants:1.0000 | bears:0.0000
+k4 (73).jpg,elephants,elephants:0.9875 | bears:0.0125
+k4 (74).jpeg,elephants,elephants:0.9881 | bears:0.0119
+k4 (74).jpg,elephants,elephants:0.6570 | bears:0.3430
+k4 (75).jpeg,elephants,elephants:0.9118 | bears:0.0882
+k4 (75).jpg,bears,bears:0.9167 | elephants:0.0833
+k4 (76).jpeg,elephants,elephants:0.9983 | bears:0.0017
+k4 (76).jpg,bears,bears:0.9999 | elephants:0.0001
+k4 (77).jpeg,bears,bears:0.9999 | elephants:0.0001
+k4 (77).jpg,bears,bears:0.9280 | elephants:0.0720
+k4 (78).jpeg,bears,bears:0.8126 | elephants:0.1874
+k4 (78).jpg,bears,bears:0.9685 | elephants:0.0315
+k4 (79).jpeg,bears,bears:0.9966 | elephants:0.0034
+k4 (79).jpg,elephants,elephants:0.8155 | bears:0.1845
+k4 (80).jpeg,elephants,elephants:0.9979 | bears:0.0021
+k4 (80).jpg,elephants,elephants:0.5981 | bears:0.4019
+k4 (81).jpeg,elephants,elephants:0.9986 | bears:0.0014
+images (42).jpeg,elephants,elephants:1.0000 | bears:0.0000
+images (43).jpeg,bears,bears:0.9940 | elephants:0.0060
+images (44).jpeg,elephants,elephants:1.0000 | bears:0.0000
+images (45).jpeg,elephants,elephants:1.0000 | bears:0.0000
+lionesses_644822__340.jpg,elephants,elephants:0.9371 | bears:0.0629
+mala_mala_200064__340.jpg,elephants,elephants:0.9985 | bears:0.0015
+namibia_1057544__340.jpg,elephants,elephants:1.0000 | bears:0.0000
+nature_3306013__340.jpg,bears,bears:0.5883 | elephants:0.4117
+pexels_photo_1054672.jpeg,elephants,elephants:0.9903 | bears:0.0097
+pexels_photo_1623221.jpeg,elephants,elephants:1.0000 | bears:0.0000
+pexels_photo_2193077.jpeg,elephants,elephants:1.0000 | bears:0.0000
+pexels_photo_2278198.jpeg,elephants,elephants:0.9985 | bears:0.0015
+pexels_photo_247431.jpeg,elephants,elephants:0.8616 | bears:0.1384
+pexels_photo_469675.jpeg,elephants,elephants:0.9896 | bears:0.0104
+pexels_photo_631317.jpeg,elephants,elephants:1.0000 | bears:0.0000
+pexels_photo_667205.jpeg,elephants,elephants:1.0000 | bears:0.0000
+pexels_photo_803845.jpeg,elephants,elephants:0.9986 | bears:0.0014
+pexels_photo_861321.jpeg,elephants,elephants:1.0000 | bears:0.0000
+photo_1543242010_07563b3d2a2c.jpeg,elephants,elephants:0.9851 | bears:0.0149
+photo_1543838215_403d7bf6e149.jpeg,bears,bears:0.9654 | elephants:0.0346
